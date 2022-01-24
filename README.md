@@ -31,6 +31,6 @@ I'm Conall, a software developer from the UK currently based in Tokyo. I came to
 
 ## Github Stats - :chart_with_upwards_trend:
 <p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=conalli&hide=stars&count_private=true&show_icons=true&theme=swift" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conalli&layout=compact&theme=swift&langs_count=6" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=conalli&hide=stars&count_private=true&show_icons=true&theme=swift"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conalli&layout=compact&theme=swift&langs_count=6"/>
 </p>
