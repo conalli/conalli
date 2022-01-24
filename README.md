@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Conall, a software developer from the UK currently based in Tokyo. I came to Japan for many of the same reasons that I am interested in technology - to learn new things and challenge myself. I'm interested in all kinds of technologies and programming languages, and collaborating with others across the stack. 
+I'm Conall, an engineer from the UK currently based in Tokyo. I came to Japan for many of the same reasons that I am interested in technology - to learn new things and challenge myself. I'm interested in all kinds of technologies and programming languages, and collaborating with others across the stack. 
 
 ## Current Favourites - :hearts:
 ![js](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=black&color=F7DF1E)
