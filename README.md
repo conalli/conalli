@@ -26,6 +26,7 @@ I'm Conall, an engineer from the UK currently based in Tokyo. I came to Japan fo
 ![nextjs](https://img.shields.io/badge/Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=000000)
 ![node](https://img.shields.io/badge/Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=339933)
 ![go](https://img.shields.io/badge/Go-informational?style=flat&logo=go&logoColor=white&color=00ADD8)
+![python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![mongodb](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=47A248&color=white)
 ![postgresql](https://img.shields.io/badge/Postgres-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
 
